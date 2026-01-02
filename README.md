@@ -227,6 +227,14 @@ Now submit the pull request.
 
 Soon I'll be merging all your changes into the main branch of this project. You will get a notification email once the changes have been merged.
 
+### Troubleshooting (Common Beginner Mistakes)
+Working on the Original Repository: Always fork the project to your own account first.
+
+Committing to the main Branch: Avoid making changes on your local main branch. Always create a feature branch to keep your work organized and your main branch clean.
+
+Outdated Local Code: If the original project moves forward while you are working, you will face merge conflicts. Frequently pull the latest changes from the upstream repository to stay in sync.
+
+
 ## Where to go from here?
 
 Congrats! You just completed the standard _fork -> clone -> edit -> pull request_ workflow that you'll often encounter as a contributor!
